@@ -4,18 +4,20 @@ It's a simple calculator app, that we're testing in our environment
 
 I hope that you will read first this manual before doing something.
 
-# Cloning A Repo
+## Get Starting with Repo
 
-Clone this repo by using this command:
+### Installation
+
+1. Clone this repo via https by using this command:
 
 ```shell
 git clone https://github.com/ms-emily/calculator-app.git
 ```
 
-Or, you can use SSH:
+Or, you can clone it via SSH:
 
 ```shell
 git clone git@github.com:ms-emily/calculator-app.git
 ```
 
-Enjoy!
+### Coming Soon...
