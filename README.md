@@ -8,7 +8,20 @@ I hope that you will read first this manual before doing something.
 
 ### Installation
 
-1. Clone this repo via https by using this command:
+1. First of all, install GIT if it is not already installed:
+
+```shell
+sudo apt-get update
+sudo apt install -y git
+```
+
+Or, if you are on Red Hat:
+
+```shell
+sudo dnf install -y git
+```
+
+2. Then clone this repo via HTTPS by using this command:
 
 ```shell
 git clone https://github.com/ms-emily/calculator-app.git
