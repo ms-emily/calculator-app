@@ -33,4 +33,11 @@ Or, you can clone it via SSH:
 git clone git@github.com:ms-emily/calculator-app.git
 ```
 
-### Coming Soon...
+3. And finally, start your calculator application:
+
+```shell
+cd /tmp/calculator-app
+python3 calculator.py
+```
+
+## That's all for now. Stay tuned for future updates.
