@@ -3,7 +3,7 @@ import subprocess
 import sys
 
 def lint_files(directory):
-    # Проходим по всем файлам в указанной директории
+    # Go through all the files in the specified directory
     for root, dirs, files in os.walk(directory):
         for file in files:
             if file.endswith(".py"):
