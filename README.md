@@ -36,7 +36,7 @@ git clone git@github.com:ms-emily/calculator-app.git
 3. And finally, start your calculator application:
 
 ```shell
-cd /tmp/calculator-app
+cd /<path-to-directory>/calculator-app
 python3 calculator.py
 ```
 
